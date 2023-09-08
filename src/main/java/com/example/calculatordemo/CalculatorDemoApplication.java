@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @SpringBootApplication
 public class CalculatorDemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CalculatorDemoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CalculatorDemoApplication.class, args);
+    }
 
 }
